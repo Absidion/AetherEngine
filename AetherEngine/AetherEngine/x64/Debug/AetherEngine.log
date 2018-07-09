@@ -1,5 +1,7 @@
-﻿  Game.cpp
-c:\users\jr\source\repos\aetherengine\aetherengine\game.cpp(74): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+﻿  Bullet.cpp
+  Game.cpp
+c:\users\jr\documents\github\aetherengine\aetherengine\aetherengine\game.cpp(74): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
   main.cpp
   Generating Code...
-  AetherEngine.vcxproj -> C:\Users\JR\source\repos\AetherEngine\x64\Debug\AetherEngine.exe
+     Creating library C:\Users\JR\Documents\GitHub\AetherEngine\AetherEngine\x64\Debug\AetherEngine.lib and object C:\Users\JR\Documents\GitHub\AetherEngine\AetherEngine\x64\Debug\AetherEngine.exp
+  AetherEngine.vcxproj -> C:\Users\JR\Documents\GitHub\AetherEngine\AetherEngine\x64\Debug\AetherEngine.exe
